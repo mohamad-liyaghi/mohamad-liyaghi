@@ -14,6 +14,8 @@
 <h3 align="left">Contact me Via : </h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/17829034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17829034" height="30" width="40" /></a>
+ <a href="https://t.me/pythonmanagedotpyrunserver"><img src="https://img.icons8.com/dusk/48/000000/telegram-app.png"/></a>
+<a href="liaghimohamad69@gmail.com">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
