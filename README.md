@@ -13,7 +13,7 @@
 
 <h3 align="left">Contact me Via : </h3>
 <a href="https://t.me/PythonManageDotPyRunserver"><img src="https://img.icons8.com/dusk/48/000000/telegram-app.png"/></a>
-<a href="mailto:liaghimohamad69@gmail.com">
+<a href="liaghimohamad69@gmail.com">
 <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/48/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-5.png"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
