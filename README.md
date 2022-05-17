@@ -16,6 +16,13 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"></a>
-   
 </p>
+<hr>
+
+![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ml06py&hide=contribs,prs)
+<hr>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ml06py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
