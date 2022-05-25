@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/mohamad-liyaghi-230261231/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <hr>
-<h3>Thins i know:</h3>
+<h3>Things i know:</h3>
 <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
