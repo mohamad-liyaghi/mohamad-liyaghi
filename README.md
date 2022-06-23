@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Mohammad</h1>
 
-<h3 >A junior Back-end  Developer</h3>
+<h3 >Im a junior Back-end  Developer</h3>
 <hr>
 
 <h3 align="left">Contact me Via : </h3>
