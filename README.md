@@ -14,13 +14,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css" />
   </a> <br>
   
   ### Tools
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,docker,git,postgres" />
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,docker,git,postgres,bootstrap" />
   </a>
 </p>
 
