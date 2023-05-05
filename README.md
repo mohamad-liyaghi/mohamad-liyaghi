@@ -25,9 +25,9 @@
 <div>
     <div style="margin: 20px;">
     <h3>My studied fields:</h3><br>
-    <h3>Back-End:</h3>
+    <h3>Language and frameworks:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/JavaScript-030903.svg?style=flat&logo=JavaScript&logoColor=yellow">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/JavaScript-030903.svg?style=flat&logo=JavaScript&logoColor=yellow"> <br>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
@@ -35,13 +35,14 @@
     <br><h3>Databases:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
-    <h3>Platform:</h3>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
-    <h3>version control:</h3>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
-    <h4>Test Framework:</h4>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/mongodb-030903.svg?style=plasic&logo=mongodb&logoColor=green">
+       <h4>Testing:</h4>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=unittest&logoColor=aqua">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/pytest-030903.svg?style=plasic&logo=pytest&logoColor=aqua">
+    <h3>Other:</h3>
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/postman-030903.svg?style=plasic&logo=postman&logoColor=orange">
     </div>
 </div>
 
