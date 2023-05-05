@@ -1,6 +1,10 @@
 <h1>Hi 👋, I'm Mohammad</h1>
 
-<h3 >I'm a junior backend developer with experience in Python and JavaScript. My primary focus is on web development using the Django framework and Django Rest Framework. I have experience working with Js frameworks.</h3>
+<h4 >As a junior backend developer with two years of experience, I specialize in web development using Python and JavaScript. My expertise lies in utilizing the Django and Django Rest Framework to create dynamic and efficient web applications. Additionally, I possess hands-on experience with various JavaScript frameworks, such as React, to design engaging user interfaces.<br><br>
+
+Furthermore, I am a fast learner and always eager to expand my skill set. Currently, I am actively learning FastAPI to further enhance my proficiency in developing high-performance, RESTful APIs.
+
+</h4>
 <hr>
 
 <h3 align="left">Contact me Via : </h3>
