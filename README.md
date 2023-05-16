@@ -35,7 +35,6 @@ Furthermore, I am a fast learner and always eager to expand my skill set. Curren
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/nginx-030903.svg?style=flat&logo=nginx&logoColor=green">
     <br><h3>Databases:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
@@ -45,8 +44,10 @@ Furthermore, I am a fast learner and always eager to expand my skill set. Curren
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/pytest-030903.svg?style=plasic&logo=pytest&logoColor=aqua">
     <h3>Other:</h3>
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/nginx-030903.svg?style=flat&logo=nginx&logoColor=green">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
         <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/postman-030903.svg?style=plasic&logo=postman&logoColor=orange">
+        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/rabbitmq-030903.svg?style=flat&logo=rabbitmq&logoColor=orange">
     </div>
 </div>
 
