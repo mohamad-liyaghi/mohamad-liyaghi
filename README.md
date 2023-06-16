@@ -28,26 +28,25 @@ Furthermore, I am a fast learner and always eager to expand my skill set. Curren
 
 <div>
     <div style="margin: 20px;">
-    <h3>My studied fields:</h3><br>
-    <h3>Language and frameworks:</h3>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/JavaScript-030903.svg?style=flat&logo=JavaScript&logoColor=yellow"> <br>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
+    <h3>Things i've used in my projects:</h3>
+        <img style="height:30px;" alt="python" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
+        <img style="height:30px;" alt="js" src="https://img.shields.io/badge/JavaScript-030903.svg?style=flat&logo=JavaScript&logoColor=yellow"> <br>
+        <img style="height:30px;" alt="django" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
+        <img style="height:30px;" alt="django-rest" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
+        <img style="height:30px;" alt="fastapi" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
     <br><h3>Databases:</h3>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/mongodb-030903.svg?style=plasic&logo=mongodb&logoColor=green">
+        <img style="height:30px;" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
+        <img style="height:30px;" alt="redis" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
+        <img style="height:30px;" alt="mongodb" src="https://img.shields.io/badge/mongodb-030903.svg?style=plasic&logo=mongodb&logoColor=green">
        <h4>Testing:</h4>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=unittest&logoColor=aqua">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/pytest-030903.svg?style=plasic&logo=pytest&logoColor=aqua">
+        <img style="height:30px;" alt="unittest" src="https://img.shields.io/badge/UnitTest-030903.svg?style=plasic&logo=unittest&logoColor=aqua">
+        <img style="height:30px;" alt="pytest" src="https://img.shields.io/badge/pytest-030903.svg?style=plasic&logo=pytest&logoColor=aqua">
     <h3>Other:</h3>
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/nginx-030903.svg?style=flat&logo=nginx&logoColor=green">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/postman-030903.svg?style=plasic&logo=postman&logoColor=orange">
-        <img style="height:30px;" alt="Discord" src="https://img.shields.io/badge/rabbitmq-030903.svg?style=flat&logo=rabbitmq&logoColor=orange">
+        <img style="height:30px;" alt="docker" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
+        <img style="height:30px;" alt="nginx" src="https://img.shields.io/badge/nginx-030903.svg?style=flat&logo=nginx&logoColor=green">
+        <img style="height:30px;" alt="git" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
+        <img style="height:30px;" alt="postman" src="https://img.shields.io/badge/postman-030903.svg?style=plasic&logo=postman&logoColor=orange">
+        <img style="height:30px;" alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq-030903.svg?style=flat&logo=rabbitmq&logoColor=orange">
     </div>
 </div>
 
