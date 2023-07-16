@@ -19,13 +19,6 @@ Furthermore, I am a fast learner and always eager to expand my skill set. Curren
 
 <hr>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-liyaghi&theme=vue)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-liyaghi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-
 <div>
     <div style="margin: 20px;">
     <h3>Things i've used in my projects:</h3>
@@ -53,7 +46,15 @@ Furthermore, I am a fast learner and always eager to expand my skill set. Curren
 [![Donate](https://img.shields.io/badge/Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeete.ir/mohamad_liyaghi)
 
 
+<details>
+  <summary><h3>Github Stats</h3></summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mohamad-liyaghi&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-liyaghi&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-liyaghi&theme=blueberry)
+
+</details>
 
 
 
