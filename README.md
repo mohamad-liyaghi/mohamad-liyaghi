@@ -42,8 +42,13 @@ Furthermore, I am a fast learner and always eager to expand my skill set. Curren
 </div>
 
 <hr>
+<h3>Donation: </h3>
 
 [![Donate](https://img.shields.io/badge/Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeete.ir/mohamad_liyaghi)
+
+In case you are not in Iran: <br>
+
+[![Donate](https://img.shields.io/badge/Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ml06py)
 
 
 <details>
