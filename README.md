@@ -18,10 +18,6 @@ Furthermore, I am a fast learner and always eager to expand my skill set. I am a
 
 <h3>Github Stats</h3>
 
-![](https://komarev.com/ghpvc/?username=mohamad-liyaghi)<br>
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mohamad-liyaghi&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-liyaghi&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-liyaghi&theme=blueberry)
 
 <hr>
