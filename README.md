@@ -52,7 +52,6 @@
     <h3>Others:</h3>
         <img style="height:30px;" alt="nginx" src="https://img.shields.io/badge/nginx-030903.svg?style=flat&logo=nginx&logoColor=green">
         <img style="height:30px;" alt="git" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
-        <img style="height:30px;" alt="elastic" src="https://img.shields.io/badge/elastic-030903.svg?style=plasic&logo=elastic">
         <img style="height:30px;" alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq-030903.svg?style=flat&logo=rabbitmq&logoColor=orange">
         <img style="height:30px;" alt="celery" src="https://img.shields.io/badge/celery-030903.svg?style=flat&logo=celery&logoColor=green">
         <img style="height:30px;" alt="elasticsearch" src="https://img.shields.io/badge/Elasticsearch-030903.svg?style=flat&logo=elasticsearch&logoColor=white">
