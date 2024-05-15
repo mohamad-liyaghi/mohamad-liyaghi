@@ -16,15 +16,14 @@
 
 <hr>
 
-
 <h3>Github Stats  🚀</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-liyaghi&theme=blueberry)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamad-liyaghi&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark" alt="mohamad-liyaghi's GitHub Stats" height="200">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad-liyaghi&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="mohamad-liyaghi's GitHub Streak" height="200">
-
-
+<div style="display: flex; flex-direction: row; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamad-liyaghi&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark" alt="mohamad-liyaghi's GitHub Stats" height="200">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad-liyaghi&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="mohamad-liyaghi's GitHub Streak" height="200">
+</div>
 
 <hr>
 
@@ -69,6 +68,3 @@
 If you would like to support me, you can donate me using the following link:
 
 [![Donate with Rial](https://img.shields.io/badge/Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeete.ir/mohamad_liyaghi)
-
-
-
