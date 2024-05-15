@@ -9,7 +9,7 @@
 </h4>
 <hr>
 
-<h3 align="left">Contact Options : </h3>
+<h3 align="left">Contact Options 📞 </h3>
 <a href="https://t.me/El_mohamad"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="mailto:liaghimohamad69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/mohamad-liyaghi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -17,9 +17,14 @@
 <hr>
 
 
-<h3>Github Stats</h3>
+<h3>Github Stats  🚀</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-liyaghi&theme=blueberry)
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohamad-liyaghi&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark" alt="mohamad-liyaghi's GitHub Stats" height="200">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad-liyaghi&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="mohamad-liyaghi's GitHub Streak" height="200">
+
+
 
 <hr>
 
