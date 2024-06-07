@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Mohammad</h1>
 
 <h4>
-🚀 As a junior backend developer with over 3 years of experience, I specialize in crafting dynamic web applications and RESTful APIs using Python and Go(lang) frameworks such as Django, FastAPI, and Fiber.
+🚀 As a junior backend developer with over 3 years of experience, I specialize in building dynamic web applications and RESTful APIs using Python and Go(lang) frameworks such as Django, FastAPI, and Fiber.
 <br><br>
 💡 Additionally, I have a solid understanding of database management systems and a keen interest in exploring DevOps practices and monitoring tools like Prometheus. Currently, I'm delving into Python's low-level concepts to deepen my understanding and refine my skills.
 <br><br>
