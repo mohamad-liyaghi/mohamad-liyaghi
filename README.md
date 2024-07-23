@@ -48,9 +48,9 @@
         <img style="height:30px;" alt="linux-bash" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
         <img style="height:30px;" alt="docker" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
         <img style="height:30px;" alt="docker-compose" src="https://img.shields.io/badge/DockerCompose-030903.svg?style=plasic&logo=docker&logoColor=orange">
+        <img style="height:30px;" alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-030903.svg?style=plasic&logo=kubernetes&logoColor=blue">
         <img style="height:30px;" alt="gitlab-ci" src="https://img.shields.io/badge/Gitlab%20CI-030903.svg?style=plasic&logo=gitlab&logoColor=orange">
         <img style="height:30px;" alt="github-actions" src="https://img.shields.io/badge/Github%20Actions-030903.svg?style=plasic&logo=github-actions&logoColor=green">
-        <img style="height:30px;" alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-030903.svg?style=plasic&logo=kubernetes&logoColor=blue">
     <br>
     <h3>Others:</h3>
         <img style="height:30px;" alt="nginx" src="https://img.shields.io/badge/nginx-030903.svg?style=flat&logo=nginx&logoColor=green">
