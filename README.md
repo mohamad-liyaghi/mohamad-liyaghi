@@ -24,6 +24,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad-liyaghi&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="mohamad-liyaghi's GitHub Streak" height="200">
 </div>
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamad-liyaghi&theme=github-compact)](https://github.com/mohamad-liyaghi/github-readme-activity-graph)
+
 <hr>
 
 <div>
@@ -51,6 +53,13 @@
         <img style="height:30px;" alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-030903.svg?style=plasic&logo=kubernetes&logoColor=blue">
         <img style="height:30px;" alt="gitlab-ci" src="https://img.shields.io/badge/Gitlab%20CI-030903.svg?style=plasic&logo=gitlab&logoColor=orange">
         <img style="height:30px;" alt="github-actions" src="https://img.shields.io/badge/Github%20Actions-030903.svg?style=plasic&logo=github-actions&logoColor=green">
+    <h3>Monitoring Tools:</h3>
+        <img style="height:30px;" alt="prometheus" src="https://img.shields.io/badge/Prometheus-030903.svg?style=flat&logo=prometheus&logoColor=red">
+        <img style="height:30px;" alt="grafana" src="https://img.shields.io/badge/Grafana-030903.svg?style=flat&logo=grafana&logoColor=orange">
+        <img style="height:30px;" alt="influxdb" src="https://img.shields.io/badge/InfluxDB-030903.svg?style=flat&logo=influxdb&logoColor=blue">
+        <img style="height:30px;" alt="telegraf" src="https://img.shields.io/badge/Telegraf-030903.svg?style=flat&logo=telegraf&logoColor=green">
+        <img style="height:30px;" alt="loki" src="https://img.shields.io/badge/Loki-030903.svg?style=flat&logo=loki&logoColor=green">
+        <img style="height:30px;" alt="jaeger" src="https://img.shields.io/badge/Jaeger-030903.svg?style=flat&logo=jaeger&logoColor=green">
     <br>
     <h3>Others:</h3>
         <img style="height:30px;" alt="nginx" src="https://img.shields.io/badge/nginx-030903.svg?style=flat&logo=nginx&logoColor=green">
