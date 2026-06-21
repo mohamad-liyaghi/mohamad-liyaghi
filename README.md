@@ -1,78 +1,123 @@
-<h1>Hi 👋, I'm Mohammad</h1>
+<div align="center">
 
-<h4>
-🚀 As a backend developer with over 4 years of experience, I specialize in building dynamic web applications and RESTful APIs using Python and Go(lang) frameworks such as Django, FastAPI, and Fiber.
-<br><br>
-💡 Additionally, I have a solid understanding of database management systems and a keen interest in exploring DevOps practices and monitoring tools like Prometheus. Currently, I'm delving into Python's low-level concepts to deepen my understanding and refine my skills.
-<br><br>
-🌟 I'm always eager to learn new technologies and methodologies to enhance my skills and contribute to the tech community. I'm open to collaborating on projects and sharing knowledge with like-minded individuals.
-</h4>
-<hr>
+# `Hi, I'm Mohamad Liyaghi` 👋
 
-<h3 align="left">Contact Options 📞 </h3>
-<a href="https://t.me/El_mohamad"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="mailto:liaghimohamad69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-<a href="https://www.linkedin.com/in/mohamad-liyaghi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://mohamad-liyaghi.ir">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=986DFF&center=true&vCenter=true&width=640&height=42&lines=Software+Engineer+%C2%B7+AI+%40+Zebracat;Full-stack+%C2%B7+backend-leaning+%C2%B7+AI+enthusiast;LLM+agents+%C2%B7+RAG+%C2%B7+guardrails+%C2%B7+cost+engineering;I+build+for+scale.+I+read+a+lot.+I+ship." alt="Software Engineer · AI" />
+</a>
 
-<hr>
+<p>
+  <a href="https://mohamad-liyaghi.ir"><img src="https://img.shields.io/badge/Portfolio-mohamad--liyaghi.ir-986DFF?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohamad-liyaghi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@el_mohamad"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="mailto:liaghimohamad69@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/El_mohamad"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
 
-<h3>Github Stats  🚀</h3>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-liyaghi&theme=blueberry)
-
-<div style="display: flex; flex-direction: row; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad-liyaghi&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="mohamad-liyaghi's GitHub Streak" height="200">
 </div>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamad-liyaghi&theme=github-compact)](https://github.com/mohamad-liyaghi/github-readme-activity-graph)
+```bash
+$ whoami
+```
 
-<hr>
+Software Engineer · AI at **[Zebracat](https://www.zebracat.ai)** (`zebracat.ai`), where we turn text into video with generative AI. I work across the full stack but live in the backend — designing distributed services and async pipelines that stay fast and predictable at high request volume.
 
-<div>
-    <div style="margin: 20px;">
-    <h3>Languages:</h3>
-        <img style="height:30px;" alt="python" src="https://img.shields.io/badge/Python-030903.svg?style=flat&logo=python&logoColor=yellow">
-        <img style="height:30px;" alt="go" src="https://img.shields.io/badge/Go-030903.svg?style=flat&logo=go&logoColor=blue">
-    <h3>Backend Frameworks:</h3>
-        <img style="height:30px;" alt="django" src="https://img.shields.io/badge/Django-030903.svg?style=flat&logo=django&logoColor=green">
-        <img style="height:30px;" alt="django-rest" src="https://img.shields.io/badge/DjangoRestFrameWork-030903.svg?style=flat&logo=django&logoColor=white">
-        <img style="height:30px;" alt="fastapi" src="https://img.shields.io/badge/FastAPI-030903.svg?style=flat&logo=fastapi&logoColor=green">
-        <img style="height:30px;" alt="fiber" src="https://img.shields.io/badge/Fiber-030903.svg?style=flat&logo=fiber&logoColor=green">
-    <br><h3>Databases:</h3>
-        <img style="height:30px;" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-030903.svg?style=flat&logo=postgresql&logoColor=blue">
-        <img style="height:30px;" alt="redis" src="https://img.shields.io/badge/Redis-030903.svg?style=plasic&logo=redis&logoColor=red">
-        <img style="height:30px;" alt="mongodb" src="https://img.shields.io/badge/mongodb-030903.svg?style=plasic&logo=mongodb&logoColor=green">
-       <h4>Testing Frameworks:</h4>
-        <img style="height:30px;" alt="unittest" src="https://img.shields.io/badge/Unittest-030903.svg?style=plasic&logo=unittest&logoColor=blue">
-        <img style="height:30px;" alt="pytest" src="https://img.shields.io/badge/pytest-030903.svg?style=plasic&logo=pytest&logoColor=aqua">
-    <h3>DevOps Skills:</h3>
-        <img style="height:30px;" alt="linux" src="https://img.shields.io/badge/linux-030903.svg?style=flat&logo=Linux">
-        <img style="height:30px;" alt="linux-bash" src="https://img.shields.io/badge/Bash%20Script-030903?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-        <img style="height:30px;" alt="docker" src="https://img.shields.io/badge/Docker-030903.svg?style=plasic&logo=docker&logoColor=blue">
-        <img style="height:30px;" alt="docker-compose" src="https://img.shields.io/badge/DockerCompose-030903.svg?style=plasic&logo=docker&logoColor=orange">
-        <img style="height:30px;" alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-030903.svg?style=plasic&logo=kubernetes&logoColor=blue">
-        <img style="height:30px;" alt="gitlab-ci" src="https://img.shields.io/badge/Gitlab%20CI-030903.svg?style=plasic&logo=gitlab&logoColor=orange">
-        <img style="height:30px;" alt="github-actions" src="https://img.shields.io/badge/Github%20Actions-030903.svg?style=plasic&logo=github-actions&logoColor=green">
-    <h3>Monitoring Tools:</h3>
-        <img style="height:30px;" alt="prometheus" src="https://img.shields.io/badge/Prometheus-030903.svg?style=flat&logo=prometheus&logoColor=red">
-        <img style="height:30px;" alt="grafana" src="https://img.shields.io/badge/Grafana-030903.svg?style=flat&logo=grafana&logoColor=orange">
-        <img style="height:30px;" alt="influxdb" src="https://img.shields.io/badge/InfluxDB-030903.svg?style=flat&logo=influxdb&logoColor=blue">
-        <img style="height:30px;" alt="telegraf" src="https://img.shields.io/badge/Telegraf-030903.svg?style=flat&logo=telegraf&logoColor=green">
-        <img style="height:30px;" alt="loki" src="https://img.shields.io/badge/Loki-030903.svg?style=flat&logo=loki&logoColor=green">
-        <img style="height:30px;" alt="jaeger" src="https://img.shields.io/badge/Jaeger-030903.svg?style=flat&logo=jaeger&logoColor=green">
-    <br>
-    <h3>Others:</h3>
-        <img style="height:30px;" alt="nginx" src="https://img.shields.io/badge/nginx-030903.svg?style=flat&logo=nginx&logoColor=green">
-        <img style="height:30px;" alt="git" src="https://img.shields.io/badge/Git-030903.svg?style=plasic&logo=git&logoColor=orange">
-        <img style="height:30px;" alt="rabbitmq" src="https://img.shields.io/badge/rabbitmq-030903.svg?style=flat&logo=rabbitmq&logoColor=orange">
-        <img style="height:30px;" alt="celery" src="https://img.shields.io/badge/celery-030903.svg?style=flat&logo=celery&logoColor=green">
-        <img style="height:30px;" alt="elasticsearch" src="https://img.shields.io/badge/Elasticsearch-030903.svg?style=flat&logo=elasticsearch&logoColor=white">
-    </div>
+I'm an **AI enthusiast** in the practical sense: I build and ship LLM features — **agents, RAG, guardrails, and the cost engineering** that keeps them production-grade. I also enjoy media-heavy work — programmatic video with tools like **Remotion** and headless rendering. I read a lot, write about what I learn, and I'm happiest when I'm shipping.
+
+- 🧠 **Production AI** — LLM agents · RAG pipelines · guardrails · LLM cost engineering
+- ⚙️ **Backend at scale** — Python · Django · FastAPI · async queues · microservices
+- 🎬 **Media** — programmatic video (Remotion) · headless rendering pipelines
+- 🌐 **Full-stack** — React · TypeScript up front, observability everywhere
+- ✍️ I write about real-world AI systems on **[Medium](https://medium.com/@el_mohamad)**
+
+---
+
+### ✍️ Latest writing
+
+- [**Stop Treating LLM Calls as Free** — How Real Cost Engineering for Agents Actually Works](https://medium.com/@el_mohamad/stop-treating-llm-calls-as-free-how-real-cost-engineering-for-agents-actually-works-e04c25fa2e0a)
+- [**Stop Trusting the Embedding** — How Real RAG Pipelines Actually Work](https://medium.com/@el_mohamad/stop-trusting-the-embedding-how-real-rag-pipelines-actually-work-6d1dd7a9143f)
+- [**Stop Trusting the Model** — How Real LLM Guardrails Actually Work](https://medium.com/@el_mohamad/stop-trusting-the-model-how-real-llm-guardrails-actually-work-16e3dd52c6cb)
+- [**Stop Putting Everything in One Prompt** — How Real Research Agents Actually Work](https://medium.com/@el_mohamad/stop-putting-everything-in-one-prompt-how-real-research-agents-actually-work-50e981631cef)
+
+> More at **[medium.com/@el_mohamad](https://medium.com/@el_mohamad)** →
+
+---
+
+### 🧰 Tech stack
+
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Backend**
+<br>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Fiber](https://img.shields.io/badge/Go%20Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**AI / LLM**
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM%20Agents-986DFF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-986DFF?style=flat-square)
+![Guardrails](https://img.shields.io/badge/Guardrails-986DFF?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-986DFF?style=flat-square)
+
+**Frontend & Media**
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-000000?style=flat-square&logo=remotion&logoColor=white)
+
+**Data & Search**
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Async / Realtime**
+<br>
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**DevOps & Observability**
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+
+---
+
+<div align="center">
+
+### 📊 GitHub
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohamad-liyaghi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0c&title_color=986DFF&icon_color=2CE58F&text_color=9b9ba6" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-liyaghi&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0c&title_color=986DFF&text_color=9b9ba6" alt="top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamad-liyaghi&hide_border=true&background=0a0a0c&stroke=24242e&ring=986DFF&fire=2CE58F&currStreakLabel=986DFF&sideLabels=9b9ba6&dates=61616d&currStreakNum=e9e9ee&sideNums=e9e9ee" alt="streak" />
+
+<br><br>
+<sub><i>“Stop trusting the model. Measure everything.”</i></sub>
+
 </div>
-
-<hr>
-<h3>Donations:</h3>
-
-If you would like to support me, you can donate me using the following link:
-
-[![Donate with Rial](https://img.shields.io/badge/Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.coffeete.ir/mohamad_liyaghi)
