@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img src="assets/banner-light.png" alt="Mohamad Liyaghi — Software Engineer · AI at Zebracat, Tehran, Iran">
+  <img src="assets/banner-light.png" alt="Mohamad Liyaghi — Software Engineer · AI at Zebracat">
 </picture>
 
 I build the systems that turn a prompt into a finished video — the job pipelines
 underneath, the model steps in between, and the interface on top. Five years in
-Python, backend-leaning full-stack, working from Tehran at
+Python, backend-leaning full-stack, working remotely at
 **[Zebracat](https://www.zebracat.ai)**.
 
 - **Backend** — Python, Go, Django/DRF, FastAPI, Celery, RabbitMQ, asyncio
@@ -21,7 +21,7 @@ Python, backend-leaning full-stack, working from Tehran at
 | **[fast-commerce](https://github.com/mohamad-liyaghi/fast-commerce)** | ★ 22 | Async e-commerce backend built for throughput — clean API boundaries, background processing, and a test suite that gates deploys. |
 | **[AcademyMaster](https://github.com/mohamad-liyaghi/AcademyMaster)** | ★ 21 | Academy-management API with layered permissions and scheduled background jobs. |
 | **[Tsuna-Streaming](https://github.com/mohamad-liyaghi/Tsuna-Streaming)** | ★ 16 | Streaming backend for video and music, with the expensive processing pushed onto background workers. |
-| **[telegram-to-rubika-uploader](https://github.com/mohamad-liyaghi/telegram-to-rubika-uploader)** | ★ 14 | Go tool that relays files up to 2 GB between two platforms, so people in Iran don't spend scarce VPN bandwidth re-uploading what they already sent. |
+| **[telegram-to-rubika-uploader](https://github.com/mohamad-liyaghi/telegram-to-rubika-uploader)** | ★ 14 | Go tool that relays files up to 2 GB directly between two platforms, so nobody burns limited bandwidth re-uploading what they already sent. |
 | **[FastQuora](https://github.com/mohamad-liyaghi/FastQuora)** | ★ 11 | Q&A platform on FastAPI. Elasticsearch for search, Redis for cache, distributed tracing through both. |
 | **[iran-survival-pack](https://github.com/mohamad-liyaghi/iran-survival-pack)** | ★ 6 | Self-hosted calls, chat, files and a container registry, for collaborating over networks you can't rely on. |
 
