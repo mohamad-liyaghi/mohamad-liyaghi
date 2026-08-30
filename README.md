@@ -23,7 +23,6 @@ Python, backend-leaning full-stack, working remotely at
 | **[Tsuna-Streaming](https://github.com/mohamad-liyaghi/Tsuna-Streaming)** | ★ 16 | Streaming backend for video and music, with the expensive processing pushed onto background workers. |
 | **[telegram-to-rubika-uploader](https://github.com/mohamad-liyaghi/telegram-to-rubika-uploader)** | ★ 14 | Go tool that relays files up to 2 GB directly between two platforms, so nobody burns limited bandwidth re-uploading what they already sent. |
 | **[FastQuora](https://github.com/mohamad-liyaghi/FastQuora)** | ★ 11 | Q&A platform on FastAPI. Elasticsearch for search, Redis for cache, distributed tracing through both. |
-| **[iran-survival-pack](https://github.com/mohamad-liyaghi/iran-survival-pack)** | ★ 6 | Self-hosted calls, chat, files and a container registry, for collaborating over networks you can't rely on. |
 
 ## Writing
 
