@@ -3,10 +3,12 @@
   <img src="assets/banner-light.png" alt="Mohamad Liyaghi — Software Engineer · AI at Zebracat">
 </picture>
 
-I build the systems that turn a prompt into a finished video — the job pipelines
-underneath, the model steps in between, and the interface on top. Five years in
-Python, backend-leaning full-stack, working remotely at
-**[Zebracat](https://www.zebracat.ai)**.
+A prompt is cheap. Getting a video out of it, every time, is the job. I work
+on that path at **[Zebracat](https://www.zebracat.ai)**: queues that survive a
+dead worker, model output that has to pass a schema, and Remotion templates
+that ship like code.
+
+Five years of Python, mostly backend, full-stack when the work needs it.
 
 - **Backend** — Python, Go, Django/DRF, FastAPI, Celery, RabbitMQ, asyncio
 - **Models** — LLM APIs, structured output, tool calling, RAG, vector search
@@ -17,17 +19,16 @@ Python, backend-leaning full-stack, working remotely at
 
 | Project | | |
 | --- | --- | --- |
-| **[FoodAnywhere](https://github.com/mohamad-liyaghi/FoodAnywhere)** | ★ 40 | Food-delivery backend. PostGIS for geospatial search, Celery for anything slow, and tracing that follows an order from the request to the worker that finishes it. |
-| **[fast-commerce](https://github.com/mohamad-liyaghi/fast-commerce)** | ★ 22 | Async e-commerce backend built for throughput — clean API boundaries, background processing, and a test suite that gates deploys. |
-| **[AcademyMaster](https://github.com/mohamad-liyaghi/AcademyMaster)** | ★ 21 | Academy-management API with layered permissions and scheduled background jobs. |
-| **[Tsuna-Streaming](https://github.com/mohamad-liyaghi/Tsuna-Streaming)** | ★ 16 | Streaming backend for video and music, with the expensive processing pushed onto background workers. |
-| **[telegram-to-rubika-uploader](https://github.com/mohamad-liyaghi/telegram-to-rubika-uploader)** | ★ 14 | Go tool that relays files up to 2 GB directly between two platforms, so nobody burns limited bandwidth re-uploading what they already sent. |
-| **[FastQuora](https://github.com/mohamad-liyaghi/FastQuora)** | ★ 11 | Q&A platform on FastAPI. Elasticsearch for search, Redis for cache, distributed tracing through both. |
+| **[FoodAnywhere](https://github.com/mohamad-liyaghi/FoodAnywhere)** | ★ 40 | Nearby restaurants, orders through the kitchen. PostGIS for search, Celery for the slow work, and a trace that follows an order from the request to the worker that finishes it. |
+| **[fast-commerce](https://github.com/mohamad-liyaghi/fast-commerce)** | ★ 22 | Async store API built for throughput — clean boundaries, background processing, and tests that block a bad deploy. |
+| **[AcademyMaster](https://github.com/mohamad-liyaghi/AcademyMaster)** | ★ 21 | An academy's API: who can see what, and jobs that run on a schedule. |
+| **[Tsuna-Streaming](https://github.com/mohamad-liyaghi/Tsuna-Streaming)** | ★ 16 | Video and music streaming, with the expensive processing off the request path. |
+| **[telegram-to-rubika-uploader](https://github.com/mohamad-liyaghi/telegram-to-rubika-uploader)** | ★ 14 | Go tool that moves files up to 2 GB straight between two platforms, so nobody burns bandwidth re-uploading what they already sent. |
+| **[FastQuora](https://github.com/mohamad-liyaghi/FastQuora)** | ★ 11 | Ask and answer on FastAPI. Elasticsearch on the search path, Redis for cache, tracing through both. |
 
 ## Writing
 
-Long-form notes on building with language models — what they do once real traffic
-reaches them.
+On agents, models, and the money around shipping them.
 
 - [Stop Being a Feature Factory: The Engineer's Other Job Is Reading the Money](https://medium.com/@el_mohamad/stop-being-a-feature-factory-the-engineers-other-job-is-reading-the-money-f95653b9c3ff)
 - [Stop Being the Bottleneck: The Engineer's New Job in the Age of Coding Agents](https://medium.com/@el_mohamad/stop-being-the-bottleneck-the-engineers-new-job-in-the-age-of-coding-agents-9fb50db04d74)
