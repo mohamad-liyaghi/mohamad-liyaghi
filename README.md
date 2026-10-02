@@ -26,6 +26,18 @@ Five years of Python, mostly backend, full-stack when the work needs it.
 | **[telegram-to-rubika-uploader](https://github.com/mohamad-liyaghi/telegram-to-rubika-uploader)** | ★ 14 | Go tool that moves files up to 2 GB straight between two platforms, so nobody burns bandwidth re-uploading what they already sent. |
 | **[FastQuora](https://github.com/mohamad-liyaghi/FastQuora)** | ★ 11 | Ask and answer on FastAPI. Elasticsearch on the search path, Redis for cache, tracing through both. |
 
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mohamad-liyaghi&amp;theme=github-dark-blue&amp;hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=mohamad-liyaghi&amp;hide_border=true" alt="Mohamad Liyaghi's GitHub contribution streak" width="495">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-liyaghi&amp;theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamad-liyaghi&amp;theme=github" alt="Mohamad Liyaghi's GitHub contribution chart" width="700">
+</picture>
+
 ## Writing
 
 On agents, models, and the money around shipping them.
